@@ -3,7 +3,7 @@ module.exports = {
   title: 'SMA Technologies Help',
   tagline: 'Knowledge Base',
   url: 'https://help.smatechnologies.com',
-  baseUrl: '/opcon/knowledge-base/',
+  baseUrl: '/opcon/connectors/knowledge-base/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
